@@ -2,7 +2,7 @@
 
 Invertebrate diversity is an important aspect of many terrestrial environments. Given that the majority of the primary consumers of ecosystems tend to be primary consumers, a highly diverse community of invertebrates can support a highly diverse community of secondary and tertiary consumers. Therefore, by building our understanding of invertebrate diversity and what influences it, we can develop a more robust understanding of how changes in invertebrate diversity can cascade through a terrestrial ecosystem. This curriculum-based research experience (CURE) is designed to teach students about the importance of invertebrates to ecosystems and sampling design while adding to our understanding of their role in the environment.
 
-This CURE is currently under development, so if you have suggestions or if something is unclear or does not work, please do not hesitate to reach out to us by creating a New Issue. Please stay tuned for further updates as we continue to develop this CURE and the research around it.
+This CURE is currently under development, so if you have suggestions or if something is unclear or does not work, please do not hesitate to reach out to us by creating a [New Issue](https://github.com/gledits2/invert_cure/issues). Please stay tuned for further updates as we continue to develop this CURE and the research around it.
 
 ## Description
 
