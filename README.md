@@ -15,7 +15,7 @@ In this repository are a series of files ot help you implement the collection of
 * A description of the trap primarily used
 * A method of building the trap on a budget
 * A method of building the trap that requires a 3D printer, which costs a little more to build
-* An STL file for the 3D printed parts of the trap 
+* STL files for the 3D printed parts of the trap 
 
 # References
 
