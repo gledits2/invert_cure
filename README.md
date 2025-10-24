@@ -12,15 +12,15 @@ The composite insect trap can also be used in combination with other sampling te
 
 In this repository are a series of files ot help you implement the collection of invertebrates as a CURE for your course. These files include:
 
-* A description of the trap primarily used
-* A method of building the trap on a budget
-* A method of building the trap that requires a 3D printer, which costs a little more to build
+* A description of the traps primarily used
+* A method of building the composite insect trap on a budget
+* A method of building the composite insect trap that requires a 3D printer and additional materials, which seems to last longer but costs a little more to build
 * STL files for the 3D printed parts of the trap 
 
 # References
 
-Russo, L., Stehouwer, R., Heberling, J. M., & Shea, K. (2011). The composite insect trap: an innovative combination trap for biologically diverse sampling. Plos one, 6(6), e21079. [https://doi.org/10.1371/journal.pone.0021079](https://doi.org/10.1371/journal.pone.0021079)
+Russo, L., Stehouwer, R., Heberling, J. M., & Shea, K. (2011). The composite insect trap: an innovative combination trap for biologically diverse sampling. *Plos one*, 6(6), e21079. [https://doi.org/10.1371/journal.pone.0021079](https://doi.org/10.1371/journal.pone.0021079)
 
-Nageleisen, LM, & Bouget, C. (2009). Forest insect studies: methods and techniques, key considerations for standardization. An overview of the reflections of the Entomological Forest Inventories working group (Inv. Ent. For.). ONF, 144 p., 2009, 978-2-84207-343-5. [https://hal.science/hal-00539124v1](https://hal.science/hal-00539124v1)
+Nageleisen, LM, & Bouget, C. (2009). Forest insect studies: methods and techniques, key considerations for standardization. An overview of the reflections of the Entomological Forest Inventories working group (Inv. Ent. For.). *ONF*, 144 p., 2009, 978-2-84207-343-5. [https://hal.science/hal-00539124v1](https://hal.science/hal-00539124v1)
 
-Yi, Z., Jinchao, F., Dayuan, X., Weiguo, S., & Axmacher, J. C. (2012). A comparison of terrestrial arthropod sampling methods. Journal of Resources and Ecology, 3(2), 174-182. [https://doi.org/10.5814/j.issn.1674-764x.2012.02.010](https://doi.org/10.5814/j.issn.1674-764x.2012.02.010)
+Yi, Z., Jinchao, F., Dayuan, X., Weiguo, S., & Axmacher, J. C. (2012). A comparison of terrestrial arthropod sampling methods. *Journal of Resources and Ecology*, 3(2), 174-182. [https://doi.org/10.5814/j.issn.1674-764x.2012.02.010](https://doi.org/10.5814/j.issn.1674-764x.2012.02.010)
